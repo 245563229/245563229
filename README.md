@@ -1,4 +1,4 @@
-# Hi 🎉 Welcome to YuYueSummer's Github Homepage!
+# Hi 🎉 Welcome to Ge's Github Homepage!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
@@ -14,6 +14,3 @@
 ![](https://stats.justsong.cn/api/csdn?id=wangzirui32&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=wangzirui32&theme=github)
-————————————————
-版权声明：本文为CSDN博主「wangzirui32」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/wangzirui32/article/details/126210374
