@@ -4,7 +4,6 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=VUE&color=blue"/>
-<a href="https://github.com/245563229"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 <a href="https://space.bilibili.com/259961016"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
 </p>
 
