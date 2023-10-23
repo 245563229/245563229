@@ -4,7 +4,6 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=VUE&color=blue"/>
-<a href="https://space.bilibili.com/259961016"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan" /></a>
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=245563229&theme=dark&layout=compact)
